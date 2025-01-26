@@ -42,8 +42,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Connect to MongoDB
 Ensure there is a .env file in the backend directory with the following variables:
-```bash
-MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>/<database-name>?retryWrites=true&w=majority
+```bash MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>/<database-name>?retryWrites=true&w=majority
 
 - <username>: Your MongoDB username
 - <password>: Your MongoDB password
