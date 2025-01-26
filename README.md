@@ -28,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 ### Frontend
 1. Navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd SpeakXAssignment/frontend
 2. Install frontend dependencies:
    ```bash
    npm install
