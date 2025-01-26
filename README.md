@@ -41,7 +41,16 @@ Before you begin, ensure you have met the following requirements:
    
 ### Usage
 Once both the frontend and backend servers are running, you can access the application via http://localhost:5173 (or whichever port the frontend is running on). You can use the search functionality to query the question database.
+
+### Search For All Type Of Questions: 
+
 ![Project Screenshot](https://github.com/user-attachments/assets/ec1736bb-bf45-4257-b52b-de40eab65144)
+
+### Search For Read Along Type of Questions:
 ![Project Screenshot](https://github.com/user-attachments/assets/105b8761-37f1-4ef7-ae76-d048427e8604)
+
+### Search For Anagram Type of Questions: 
 ![Project Screenshot](https://github.com/user-attachments/assets/020c4db0-ad4c-478e-9aeb-81d00778fccb)
+
+### Search For Content Only Type of Questions:
 ![Project Screenshot](https://github.com/user-attachments/assets/d9c7be47-dc25-41da-8e9c-3f4cfa8f5ee1)
