@@ -38,7 +38,17 @@ Before you begin, ensure you have met the following requirements:
 3. Start the frontend server:
    ```bash
    npm run dev
-   
+
+
+### Connect to MongoDB
+Ensure there is a .env file in the backend directory with the following variables:
+MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>/<database-name>?retryWrites=true&w=majority
+<username>: Your MongoDB username
+<password>: Your MongoDB password
+<cluster-url>: MongoDB cluster URL
+<database-name>: Name of the database
+
+
 ### Usage
 Once both the frontend and backend servers are running, you can access the application via http://localhost:5173 (or whichever port the frontend is running on). You can use the search functionality to query the question database.
 
