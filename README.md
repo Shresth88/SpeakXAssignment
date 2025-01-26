@@ -1,12 +1,15 @@
-# QuestSearch
+# QuestionSearch
 
-QuestSearch is a search functionality for a question database built using Vite, React, MongoDB, gRPC, and Express. The project allows users to search and interact with a collection of questions efficiently. The backend uses gRPC for communication, while the frontend is built with React and Vite for faster development and builds.
+![Project Screenshot](![Screenshot 2025-01-26 163742](https://github.com/user-attachments/assets/1196899d-3ede-4ecd-9268-5d2cdfc00bdd)
+)
+
+QuestionSearch is a search functionality for a question database built using Vite, React, MongoDB, gRPC, Rest API and Express. The project allows users to search and interact with a collection of questions efficiently. The backend uses gRPC for communication, while the frontend is built with React and Vite for faster development and builds.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js (v16.0 or higher)
+- Node.js (v17.0 or higher)
 - MongoDB instance running locally or on a cloud service
 - gRPC and protobuf installed for backend communication
 
