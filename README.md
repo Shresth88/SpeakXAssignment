@@ -45,11 +45,12 @@ Ensure there is a .env file in the backend directory with the following variable
 ```bash
    MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>/<database-name>?retryWrites=true&w=majority
 ```
-
-- <username>: Your MongoDB username
-- <password>: Your MongoDB password
-- <cluster-url>: MongoDB cluster URL
-- <database-name>: Name of the database
+```
+ <username>: Your MongoDB username
+ <password>: Your MongoDB password
+ <cluster-url>: MongoDB cluster URL
+ <database-name>: Name of the database
+```
 
 
 ### Usage
